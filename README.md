@@ -1,4 +1,7 @@
 # Password-Gen-Made-by-kiskol
+all rights reserved - Kiskol
+
+
 Password Generator 
 
 
